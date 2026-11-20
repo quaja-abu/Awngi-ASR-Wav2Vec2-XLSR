@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.env.*
+
+# Model checkpoints and training state
+checkpoints/
+checkpoint-*/
+*.safetensors
+pytorch_model.bin
+optimizer.pt
+scheduler.pt
+scaler.pt
+rng_state.pth
+*.ckpt
+*.pt
+*.pth
+
+# Datasets and private research data
+data/audio/
+data/raw/
+data/private/
+*.wav
+*.flac
+*.mp3
+*.ogg
+
+# Large generated artifacts
+outputs/
+runs/
+wandb/
+lightning_logs/
