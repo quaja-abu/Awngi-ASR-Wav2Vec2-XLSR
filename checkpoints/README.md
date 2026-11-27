@@ -17,6 +17,4 @@ during the Awngi XLS-R ASR reproduction experiment.
 Full training checkpoints are preserved in Google Drive.
 This directory contains checkpoint documentation and metadata.
 
-## Checkpoint Progress
 
-Training is ongoing.
