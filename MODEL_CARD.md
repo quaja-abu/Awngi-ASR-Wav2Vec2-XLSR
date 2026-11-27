@@ -100,7 +100,7 @@ See the [inference guide](https://github.com/quaja-abu/Awngi-ASR-Wav2Vec2-XLSR/b
 
 ## Ethical considerations
 
-The study received ethics approval from Injibara University IRERC (Ref. IU/IRERC/1161/26, dated 25 November 2026). Recordings were collected before the approval letter date; written informed consent was obtained before recording. Participants consented to public sharing of anonymized transcripts. Audio recordings are not publicly released and remain subject to controlled access and applicable institutional conditions. Users must not attempt to identify speakers or redistribute restricted audio.
+The study received ethics approval from Injibara University IRERC. Recordings were collected before the approval letter date; written informed consent was obtained before recording. Participants consented to public sharing of anonymized transcripts. Audio recordings are not publicly released and remain subject to controlled access and applicable institutional conditions. Users must not attempt to identify speakers or redistribute restricted audio.
 
 ## License
 
