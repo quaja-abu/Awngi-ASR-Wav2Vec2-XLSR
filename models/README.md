@@ -4,7 +4,7 @@ The final Phase 2 XLS-R 300M CTC model is hosted on Hugging Face:
 
 **https://huggingface.co/Kuaja/awngi-xlsr-300m-asr**
 
-The model repository contains the trained weights and the configuration/tokenizer/processor files required for inference. Do not upload the raw-audio Arrow caches or intermediate training checkpoints to this GitHub repository.
+The model repository contains the trained weights and the configuration/tokenizer/processor files required for inference.
 
 ## Evaluation
 
