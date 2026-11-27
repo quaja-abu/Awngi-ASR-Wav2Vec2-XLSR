@@ -54,7 +54,7 @@ Then follow [the inference guide](docs/inference.md). The example loads the mode
 
 ## Ethical use and data access
 
-The study received ethics approval from Injibara University IRERC (Ref. IU/IRERC/1161/26; 25 November 2026). Recordings were collected before the date of this approval; written informed consent was obtained before recording. Participants consented to sharing anonymized transcripts publicly. The audio recordings are not publicly released and remain subject to controlled access and applicable institutional conditions.
+The study received ethics approval from Injibara University IRERC. Written informed consent was obtained before recording. Participants consented to sharing anonymized transcripts publicly. The audio recordings are not publicly released and remain subject to controlled access and applicable institutional conditions.
 
 The transcript files should be used only for legitimate research and in accordance with the consent and ethical conditions. Do not re-identify speakers, redistribute audio, or combine the data with other sources to identify participants.
 
